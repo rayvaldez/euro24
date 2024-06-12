@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/euro24/static/css/main.74bcd884.css",
-    "main.js": "/euro24/static/js/main.72677710.js",
+    "main.js": "/euro24/static/js/main.d41d6a63.js",
     "static/js/453.ea3962b9.chunk.js": "/euro24/static/js/453.ea3962b9.chunk.js",
     "static/media/EuroLogo.png": "/euro24/static/media/EuroLogo.e2ea64d688ff85023dde.png",
     "static/media/BillionDreams_PERSONAL.ttf": "/euro24/static/media/BillionDreams_PERSONAL.c3670514876327a19952.ttf",
     "index.html": "/euro24/index.html",
     "main.74bcd884.css.map": "/euro24/static/css/main.74bcd884.css.map",
-    "main.72677710.js.map": "/euro24/static/js/main.72677710.js.map",
+    "main.d41d6a63.js.map": "/euro24/static/js/main.d41d6a63.js.map",
     "453.ea3962b9.chunk.js.map": "/euro24/static/js/453.ea3962b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74bcd884.css",
-    "static/js/main.72677710.js"
+    "static/js/main.d41d6a63.js"
   ]
 }
